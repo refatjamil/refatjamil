@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **rifatjamil54@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/19DWtvjgrUmzz-je4cAmA1j1S6zfzB1kL?usp=sharing](https://drive.google.com/drive/folders/19DWtvjgrUmzz-je4cAmA1j1S6zfzB1kL?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
