@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rifat Jamil</h1>
+<h1 align="center">Hi 👋, I'm Rifat</h1>
 <h3 align="center">A passionate Python Developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **Django**
