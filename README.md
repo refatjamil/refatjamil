@@ -1,18 +1,18 @@
-# Refat Janil - Python Django Developer
+# Refat Jamil - Python Django Developer
 
 Welcome to my GitHub profile! I am a passionate Python Django developer with experience in building web applications and APIs. Here, you can find some of my notable projects and contributions.
 
 ## Projects
 
 ### Project 1: [e-commerce website]([link-to-repository](https://github.com/rifatjamil54/ShopiMart--django-e-commerce-project))
-Brief description of the project. Highlight key features and technologies used.
+This project is a simple e-commerce website built using the Django framework. It allows users to browse products, add them to their cart, and check out their orders.
 
-![Project 1](path-to-screenshot)
+![Project 1]([path-to-screenshot](https://raw.githubusercontent.com/rifatjamil54/ShopiMart--django-e-commerce-project/main/demo/Screenshot%20from%202023-04-27%2009-29-26.png))
 
 ### Project 2: [Django-AuthAPI-with-JWT]([link-to-repository](https://github.com/rifatjamil54/Django-AuthAPI-with-JWT))
 Brief description of the project. Highlight key features and technologies used.
 
-![Project 2](path-to-screenshot)
+![Project 2]([path-to-screenshot](https://rifatjamil54.github.io/portfolio/assets/project-2.png))
 
 ### Project 3: [Project Name 3](link-to-repository)
 Brief description of the project. Highlight key features and technologies used.
