@@ -16,6 +16,7 @@ A Junior Python Developer passionate about building web applications with Python
 - Improving Django skills
 - Exploring JavaScript frameworks like React
 - Docker and containerization
+- also currently learning Scrapy
 
 ## 📫 Let's Connect
 
