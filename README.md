@@ -20,7 +20,7 @@ A Junior Python Developer passionate about building web applications with Python
 ## 📫 Let's Connect
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/refat-jamil/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/refat__jamil)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RefatJamil_)
 
 Feel free to connect if you share similar interests or if you have any advice for a fellow junior developer!
 
