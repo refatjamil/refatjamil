@@ -1,5 +1,6 @@
 # Hello World! 👋 I'm Refat Jamil
 ![avatar](https://avatars.githubusercontent.com/u/96917645?s=400&u=7e495593a42a60b62b22d1e42cb384d20622197a&v=4)
+<br>
 A Junior Python Developer passionate about building web applications with Python and Django. Currently exploring the vast world of software development and always eager to learn new things.
 
 ## 🔧 Skills
